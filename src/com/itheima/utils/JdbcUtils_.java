@@ -11,7 +11,7 @@ public class JdbcUtils_ {
 
 	static final String DRIVERCLASS;
 	static final String URL;
-	static final String USER ;
+	static final String USER;
 	static final String PASSWORD;
 	// 获取连接
 	static {
